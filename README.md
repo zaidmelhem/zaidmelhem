@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Melhem</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+<h3 align="center">A student computer science apprenticeship at an-najah university</h3>
 
 - 🌱 I’m currently learning **React.js**
 
