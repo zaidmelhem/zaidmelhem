@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://zaidmelhem.github.io/portfolio/](https://zaidmelhem.github.io/portfolio/)
 
-- 💬 Ask me about **React.js**
-
 - 📫 How to reach me **zaidomar2011426@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
