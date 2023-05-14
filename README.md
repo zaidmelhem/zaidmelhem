@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Melhem</h1>
-<h3 align="center">A student computer science apprenticeship at an-najah university</h3>
+<h3 align="center">A student SWE at an-najah university</h3>
 
 <p><img align="right" src="https://github.com/zaidmelhem/zaidmelhem/blob/main/giphy.gif" /></p>
 
