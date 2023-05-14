@@ -5,7 +5,7 @@
 
 - 👨‍💻 My full portfolio is : [Here](https://zaidmelhem.github.io/portfolio/)
 
-- 📫 How to reach me : [Here](zaidomar2011426@gmail.com)
+- 📫 How to reach me : [zaidomar2011426@gmail.com](zaidomar2011426@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
