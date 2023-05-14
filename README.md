@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zaid Melhem</h1>
 <h3 align="center">A student computer science apprenticeship at an-najah university</h3>
 
-- 🌱 I’m currently learning **React.js**
+<p><img align="right" src="https://github.com/zaidmelhem/zaidmelhem/blob/main/giphy.gif" /></p>
+
+
+- 🌱 I’m currently training in Gaza Sky Geeks Frontend with React
 
 - 👨‍💻 My full portfolio is : [Here](https://zaidmelhem.github.io/portfolio/)
 
